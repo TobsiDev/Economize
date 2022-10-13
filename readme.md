@@ -131,7 +131,7 @@ You would get the XP when the day ends, you will be able to spend your skill poi
 
 
 
-## How a struct might look (The data)
+## How a struct might look (The data/Game)
 
   * Politician
     * Rates
