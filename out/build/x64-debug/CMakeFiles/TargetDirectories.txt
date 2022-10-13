@@ -1,0 +1,5 @@
+C:/Users/tsh40/source/repos/Economize/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/tsh40/source/repos/Economize/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/tsh40/source/repos/Economize/out/build/x64-debug/Economize/CMakeFiles/Economize.dir
+C:/Users/tsh40/source/repos/Economize/out/build/x64-debug/Economize/CMakeFiles/edit_cache.dir
+C:/Users/tsh40/source/repos/Economize/out/build/x64-debug/Economize/CMakeFiles/rebuild_cache.dir
