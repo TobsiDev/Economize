@@ -2,5 +2,6 @@
 
 #include <iostream>
 
-void test();
+char inputHandler();
 
+void test();
